@@ -3,12 +3,12 @@
 .navbar-collapse{
     justify-content: flex-end;
     font-family: "Verdana";
-
 }
 .header{
     padding: 4em 0em 0em 0em;
     font-family: "Raleway";
-    color: #3e5569;
+    color: #1c1a1a;
+    background-color: #ffffff;
 }
 .header h1{
     font-size: 56px;
@@ -31,27 +31,17 @@
     margin: 1em 0em 0em 0em;
 }
 .bg1{
-    background-color:#749abd;
+    background-color:#1c1a1a;
     color: #ffffff;
+}
+.bg1 a{
+    color: #ffffff;
+}
+.bg1 :hover{
+    color: #d4d4d4;
 }
 .bg2{
-    background-color:#c6d3df;
-    color: #ffffff;
+    background-color:#ffffff;
+    color: #1c1a1a;
 }
 
-.bg3{
-    background-color:#9ea1a3;
-    color: #ffffff;
-}
-.bg4{
-    background-color:#3e5569;
-    color: #ffffff;
-}
-.bg5{
-    background-color:#eff5fb;
-    color: #ffffff;
-}
-.bg6{
-    background-color:#ffffff;
-    color: #3e5569;
-}
