@@ -1,0 +1,275 @@
+{
+  "SANDVIK": {
+    "company": "SANDVIK",
+    "position": "Software Engineer",
+    "city": "Camarillo, CA",
+    "start": 2022,
+    "end": 2023,
+    "description": "Embedded software that controls the vehicle's sensors, popup top, shower, and awning. Built sensor ID retriever to increase production speed. Made over the air updates to include features such as bluetooth name renaming and wifi networking.",
+    "responsibilities": [
+      "Developed embedded software for battery monitoring systems and battery system controllers, ensuring efficient and reliable operation of the devices.",
+      "Implemented front-end development for user interfaces (UI) in test equipment software, providing intuitive and user-friendly controls for the testing process.",
+      "Designed and developed back-end systems for transmitting data from the test equipment to a cloud database, enabling real-time monitoring and analysis of test results.",
+      "Utilized database engineering skills to optimize data storage and retrieval, ensuring efficient data management and seamless integration with the test equipment software.",
+      "Developed UI and web applications for controlling and monitoring the testing boards, enabling streamlined testing processes and improved product quality.",
+      "Worked extensively with embedded systems and Internet of Things (IoT) technologies, leveraging their capabilities to enhance the functionality and connectivity of the battery monitoring systems and test equipment.",
+      "Collaborated closely with cross-functional teams, including hardware engineers, to ensure seamless integration of software with hardware components.",
+      "Conducted thorough testing and debugging of software to identify and resolve issues, ensuring high-quality and reliable performance of the battery monitoring systems, controllers, and test equipment.",
+      "Stayed updated with emerging trends and advancements in embedded systems and IoT technologies, continuously enhancing skills and knowledge to drive innovation and improve product offerings.",
+      "Demonstrated strong problem-solving skills and attention to detail in troubleshooting software and hardware integration issues, leading to efficient and timely resolution."
+    ],
+    "type": "engineering",
+    "featured": true,
+    "tools": [
+      "C/C++",
+      "C#",
+      "Python",
+      "Texas Instruments",
+      ".NET Desktop Applications",
+      "PCB Debugging",
+      "FastAPI",
+      "CircuitPython",
+      "Svelte",
+      "Git/GitHub",
+      "Docker",
+      "Google Cloud",
+      "Azure DevOps"
+    ],
+    "logo": "/img/experience/sandvik-logo.png",
+    "headerImage": "/img/experience/modvans/graphite-van.jpg",
+    "link": "https://www.home.sandvik/en/"
+  },
+  "MODVANS": {
+    "company": "ModVans",
+    "position": "Software Engineer",
+    "city": "Camarillo, CA",
+    "start": 2022,
+    "end": 2022,
+    "description": "Embedded software that controls the vehicle's sensors, popup top, shower, and awning. Built sensor ID retriever to increase production speed. Made over the air updates to include features such as bluetooth name renaming and wifi networking.",
+    "responsibilities": [
+      "Developed embedded software to control various features of the van, including a motorized rooftop, a convertible table-to-shower system, and an awning, ensuring seamless and reliable operation of these components.",
+      "Collaborated with cross-functional teams to understand requirements and specifications for the van's features, translating them into functional software solutions.",
+      "Played a key role in troubleshooting and resolving issues related to faulty sensors during production, developing a device for testing parts to ensure proper functionality and compatibility with the system.",
+      "Implemented application software that allowed users to configure and set up the van's Wi-Fi connectivity, including the ability to set Wi-Fi network credentials and passwords for secure access."
+    ],
+    "type": "engineering",
+    "featured": true,
+    "tools": [
+      "Python",
+      "FastAPI",
+      "CircuitPython",
+      "Svelte",
+      "Git/GitHub",
+      "Docker",
+      "AWS"
+    ],
+    "logo": "/img/experience/modvans-logo.png",
+    "headerImage": "/img/experience/modvans/graphite-van.jpg",
+    "link": "https://www.modvans.com/"
+  },
+  "NSIN": {
+    "company": "National Security Innovation Network",
+    "position": "Computer Engineer",
+    "city": "San Diego, CA",
+    "start": 2021,
+    "end": 2022,
+    "description": "Led the electrical & computer engineering team in designing the system hardware and software. Coded embedded system software for triggering via motion sensor, recording raw audio signals from the mic, image data from the camera, NMEA GPGGA data from GPS, and seismic data from the inertial mass unit. This raw data was encoded and transferred via FTP in one file which was captured by my python fog computing layer that processes data in .wav audio, .png images with the ID stored in MySQL Database. The processed data is accessible in my flask web application.",
+    "responsibilities": [
+      "Led a multidisciplinary team in the design and development of a grenade launcher pellet surveillance device, incorporating various embedded systems components for enemy detection, surveillance, and data collection.",
+      "Assembled and integrated a range of sensors, including a PIR motion sensor, camera, microphone, seismic sensor, GPS module, SD card, and WiFi module, to capture and collect data in real-time.",
+      "Engineered a fog computing layer as an intermediary between the physical SMART device and the SQL database, processing and transmitting raw data for further analysis and storage.",
+      "Developed a Flask web application with a user-friendly interface to visualize data from the SQL database. The graphical user interface (GUI) displayed captured images, audio files, seismic data across three axes, coordinates, and timestamps.",
+      "Collaborated closely with mechanical engineers, electrical engineers, and customers to design and optimize an M-203 deployable surveillance round. The round featured motion and seismic triggering capabilities for image, audio, GPS, and seismic data collection, ensuring seamless integration with the surveillance system."
+    ],
+    "type": "engineering",
+    "featured": true,
+    "tools": [
+      "C/C++",
+      "Python",
+      "Flask",
+      "Bootstrap",
+      "Arduino",
+      "Git/GitHub",
+      "Matlab"
+    ],
+    "logo": "/img/experience/nsin-logo.png",
+    "headerImage": "/img/experience/nsin/nsin-tanks.jpg",
+    "link": "https://www.nsin.us/"
+  },
+  "SDSURF": {
+    "company": "SDSU Research Foundation",
+    "position": "Assistant",
+    "city": "San Diego, CA",
+    "start": 2022,
+    "end": 2022,
+    "description": "Implemented a kernel driver to kill the Debian virtual machine operating system and another to fork infinite processes preventing users' access to resources.",
+    "responsibilities": [
+      "Conducted ethical hacking research as part of a team at SDSU, focusing on cybersecurity and vulnerability assessment.",
+      "Implemented and tested keystroke hidden kernel driver to assess the vulnerability of user passwords and identify potential weaknesses in system security.",
+      "Evaluated operating systems, including Raspberry Pi OS, by designing and executing a kernel process to simulate a directory elimination scenario, utilizing acquired user passwords to assess the system's resilience."
+    ],
+    "tools": [
+      "C/C++",
+      "Python",
+      "Linux",
+      "Raspberry Pi",
+      "Kernel Drivers",
+      "RF Circuits",
+      "Matlab"
+    ],
+    "logo": "img/experience/sdsurf-logo.png",
+    "headerImage": "/img/experience/sdsurf/electrical-engineering.jpg",
+    "link": "https://foundation.sdsu.edu/"
+  },
+  "SDHACKS2022": {
+    "company": "SD Hacks 2022",
+    "position": "Computer Engineer | Team Lead | Champion",
+    "city": "San Diego, CA",
+    "start": 2022,
+    "end": 2022,
+    "description": "Awarded 'Best Overall'. Organized team in engineering an autonomous adaptive solar ecosystem. Created flask web application for viewing system power gain and expenditure. Tested circuit design using oscilloscopes, multimeters, and software debugger.",
+    "responsibilities": [
+      "(Awarded Best Overall in SD Hacks 2022) ",
+      "Led a winning team in the SD Hacks coding competition, developing a Rotating Solar Panel system controlled by an Arduino microcontroller.",
+      "Designed and implemented a battery monitoring system to track and display real-time battery life and power generation data.",
+      "Integrated cloud connectivity to enable data transmission from the Arduino to a web application, allowing users to remotely monitor the system's performance.",
+      "Developed a user-friendly web application interface that provided intuitive visualization of battery life, power generation metrics, and other relevant data.",
+      "Leveraged Arduino programming skills to control the rotation of the solar panel system, optimizing its orientation for maximum energy generation based on real-time data.",
+      "Collaborated closely with team members to ensure seamless integration of hardware and software components, resulting in a fully functional and efficient system.",
+      "Conducted rigorous testing and debugging to ensure the reliability and accuracy of the battery monitoring system, data transmission, and web application functionality."
+    ],
+    "tools": ["C/C++", "Python", "Flask", "Bootstrap", "Arduino", "Circuits"],
+    "logo": "img/experience/sdhacks-logo.png",
+    "headerImage": "/img/experience/sdhacks/group-finale.jpg",
+    "link": "https://www.sdhacks.io/"
+  },
+  "SDSUIEEE": {
+    "company": "SDSU IEEE",
+    "position": "Vice Chair of Projects | Community Initiative Director",
+    "city": "San Diego, CA",
+    "start": 2019,
+    "end": 2020,
+    "description": "Organized workshops educating SDSU students in software engineering using bootstrap, git, Github, and web development. Hosted SDSU's first IEEE Hackathon.",
+    "responsibilities": [
+      "Launched workshops and hackathons for SDSU students, and introduced HS students to robotics."
+    ],
+    "tools": ["C/C++", "HTML", "CSS", "JS", "Bootstrap"],
+    "logo": "img/experience/ieee-logo.png",
+    "headerImage": "/img/experience/ieee/group.jpg",
+    "link": "http://ieee.sdsu.edu/"
+  },
+  "NEWCOFOUNDATION": {
+    "company": "NewCo Foundation",
+    "position": "Mentor",
+    "city": "Camarillo, CA",
+    "start": 2018,
+    "end": 2020,
+    "description": "Mentored students in developing websites & applications using React.",
+    "responsibilities": [
+      "Teaching: Assisted students in NewCoding Bootcamp program which covered HTML, CSS, JavaScript, Express.JS, Node.JS, Git, GitHub, and Bootstrap."
+    ],
+    "tools": [
+      "HTML",
+      "CSS",
+      "JS",
+      "React",
+      "Bootstrap",
+      "App Development",
+      "Web Development"
+    ],
+    "logo": "img/experience/newcofoundation-logo.png",
+    "headerImage": "/img/experience/newco/plug-play.jpg",
+    "link": "https://www.newco.foundation/"
+  },
+  "RCMAKES": {
+    "company": "RCMAKES",
+    "position": "Lead Intern",
+    "city": "Camarillo, CA",
+    "start": 2016,
+    "end": 2020,
+    "description": "Led a team of 30 interns in manufacturing products & providing services for local businesses. Organized company involvement in community opportunities such as 'The Camarillo Christmas Parade'. Introduced the Academy Bridge Program for Rancho Campana High School in engineering and medical science.",
+    "responsibilities": [
+      "Leadership: Managed 30 interns by facilitating tasks for day-to-day operations.",
+      "Program Development: Designed community initiatives and academic programs such as the Academy Bridge Program for Rancho Campana High School.",
+      "Marketing: Organized community involvement in Camarillo City Parades, Park Events, and marketing to local businesses.",
+      "Project Development: Coordinated with local businesses and customers to develop products or provide services that met customer needs.",
+      "Web Development: Built rcmakes.com, an e-commerce website.",
+      "Corporate Wiki: Developed infrastructure for managing, tracking, and delivering ongoing simultaneous projects on Trello."
+    ],
+    "type": "engineering",
+    "featured": true,
+    "tools": [
+      "Leadership",
+      "Event Planning",
+      "B2B",
+      "B2C",
+      "HTML",
+      "CSS",
+      "JS",
+      "Bootstrap",
+      "App Development"
+    ],
+    "logo": "img/experience/rcmakes-logo.png",
+    "headerImage": "/img/experience/rcmakes/truck.jpg",
+    "link": "https://rcmakes.com/"
+  },
+  "HACKILOILO": {
+    "company": "Hack Iloilo",
+    "position": "Founder | Lead Organizer",
+    "city": "Iloilo, Philippines",
+    "start": 2019,
+    "end": 2019,
+    "description": "Organized 12 universities and 5 US & Philippines-based sponsors in hosting a hackathon for 160+ university students. Coordinated with Dumangas National High School and Dumangas City Counselor in bussing 40+ high school honors students & teachers to the event. Ran workshop in modern web development.",
+    "responsibilities": [
+      "Sponsorship: Garnered $5000 in sponsorships from US/Philippines-based companies.",
+      "Event Planning: Organized University, High School, and local Organization participation which attracted 160 attendees."
+    ],
+    "tools": ["Event Planning", "Web Development"],
+    "logo": "img/experience/hackiloilo-logo.png",
+    "headerImage": "/img/experience/hackiloilo/hackiloilo.jpg",
+    "link": "https://hackiloilo.com/"
+  },
+  "VCOE": {
+    "company": "VCOE - Ventura County Office Education",
+    "position": "Non-Credentialed CTE Instructional Assistant",
+    "city": "Camarillo, CA",
+    "start": 2019,
+    "end": 2019,
+    "description": "Taught a high school credited ROP Software Development courses in JavaScript, Bootstrap, and Web Development.",
+    "responsibilities": [
+      "Teamwork: Collaborated with a team of instructors from other branches in creating a modern software engineering curriculum.",
+      "Teaching: Trained ROP course students in developing websites using modern web development tools such as Bootstrap, GitHub"
+    ],
+    "tools": ["HTML", "CSS", "JS", "Bootstrap", "Web Development"],
+    "logo": "img/experience/vcoe-logo.png",
+    "link": "https://www.vcoe.org/"
+  },
+  "SDSURHA": {
+    "company": "SDSU Residence Hall Association",
+    "position": "Vice President of Administration",
+    "city": "Camarillo, CA",
+    "start": 2018,
+    "end": 2019,
+    "description": "Hosted programs and events for on-campus residents.",
+    "responsibilities": [
+      "Hosted programs and events for SDSU on-campus residents."
+    ],
+    "tools": ["Leadership", "Event Planning", "Corporate Wiki"],
+    "logo": "img/experience/sdsurf-logo.png",
+    "link": "https://housing.sdsu.edu/"
+  },
+  "NAVY": {
+    "company": "Navy Surface Warfare Center Pre-Engineering Program",
+    "position": "Intern",
+    "city": "Port Hueneme, CA",
+    "start": 2018,
+    "end": 2018,
+    "description": "Hands-on training and introduction to all the engineering career options in the US Navy.",
+    "responsibilities": [
+      "Hands-on training and introduction to all the engineering career options in the US Navy."
+    ],
+    "tools": ["Engineering"],
+    "logo": "img/experience/navy-logo.png",
+    "link": "#"
+  }
+}

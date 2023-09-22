@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section id="header" class="py-5"></section>
+<!--  -->
+<section id="experience" class="">
+  {{ range sort $.Site.Data.experience ".end" "desc"}}
+  <!--  -->
+  {{ if and ((in .type "engineering")) ((in .featured "true")) }}
+  <div class="text-center py-5">
+    <div class="py-lg-5"></div>
+    <div class="py-lg-5"></div>
+    <a href="" class="text-decoration-none">
+    <div style="background-image: url('{{ .headerImage }}');" class="parallax">
+        ><h1 class="display-1 fw-bold text-uppercase text-center text-white-to-instagram">
+          {{ .company }}
+        </h1>
+      </div>
+    </a>
+    <div class="py-lg-5"></div>
+    <div class="py-lg-5"></div>
+  </div>
+  {{ end }}
+  <!--  -->
+  {{ end }}
+</section>
+<!--  -->
+{{ end }}

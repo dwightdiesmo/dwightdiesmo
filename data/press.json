@@ -1,0 +1,20 @@
+{
+    "ACORN": {
+        "publisher": "Camarillo Acorn",
+        "title": "Rancho Campana’s inaugural graduating class is looking toward future",
+        "logo": "https://www.thecamarilloacorn.com/wp-content/uploads/2017/08/Camarillo-Acorn-purple.png",
+        "link": "https://www.thecamarilloacorn.com/articles/rancho-campanas-inaugural-graduating-class-is-looking-toward-future/"
+    },
+    "NEWCO": {
+        "publisher": "NewCo Foundation",
+        "title": "NewCo Champions",
+        "logo": "https://www.newco.foundation/img/newco-foundation.png",
+        "link": "https://www.newco.foundation/champions/"
+    },
+    "HACK_ILOILO": {
+        "publisher": "Hack Iloilo",
+        "title": "A Scucessful Launch to A Long Endeavor, Hack Iloilo 2019",
+        "logo": "https://hackiloilo.com/img/favicon.png",
+        "link": "https://hackiloilo.com/blog/hack-iloilo-2019/"
+    }
+}

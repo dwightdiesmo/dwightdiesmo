@@ -1,0 +1,24 @@
+.parallax {
+  /* Set a specific height */
+  // min-height: 40rem;
+  padding: 20rem 0rem;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-inner-text {
+    text-align: center;
+}
+
+.parallax-page-header {
+  padding: 30rem 0rem;
+  background-image: url("/img/profile/dwightdiesmo-speaks-header.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

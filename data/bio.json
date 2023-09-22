@@ -1,0 +1,20 @@
+{
+    "dwightdiesmo": {
+        "name": "Dwight Diesmo",
+        "subtitle": "I love internet of things.",
+        "intro": "I'm a computer engineer specializing in embedded networking software, relational databases, and web-application development.",
+        "interests": [
+            "Embedded Systems",
+            "VLSI System Design",
+            "SQL Databases",
+            "Web Applications",
+            "Movies",
+            "Wings"
+        ],
+        "technologies": ["HTML/CSS/JavaScript", "Python/Flask", "SystemVerilog/Basys3", "Matlab", "C/C++", "Arduino/Raspberry Pi", "SQL/MySQL", "Git/GitHub"],
+        "email": "dwightdiesmo@gmail.com",
+        "resume": "/doc/dwightdiesmo_052222.pdf",
+        "github": "https://github.com/DwightDiesmo",
+        "linkedin": "https://www.linkedin.com/in/dwightdiesmo"
+    }
+}

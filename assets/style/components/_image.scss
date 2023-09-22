@@ -1,0 +1,7 @@
+.img-gray-to-color {
+    filter: grayscale(1);
+    &:hover {
+        filter: grayscale(0);
+        transition-duration: 0.4s;  
+    }
+}
