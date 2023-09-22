@@ -1,0 +1,64 @@
+// Transformations
+.btn-to-eerie-black {
+    &:hover {
+        background-color: $color-eerie-black;
+        color: $color-white;
+        transition-duration: 0.6s;
+    }
+}
+
+.btn-to-maize-crayola {
+    &:hover {
+        background-color: $color-maize-crayola;
+        color: $color-eerie-black;
+        transition-duration: 0.6s;
+    }
+}
+
+.btn-to-yellow-orange {
+    &:hover {
+        background-color: $color-yellow-orange;
+        color: $color-eerie-black;
+        transition-duration: 0.6s;
+    }
+}
+
+.btn-to-fire-opal {
+    &:hover {
+        background-color: $color-fire-opal;
+        color: $color-white;
+        transition-duration: 0.6s;
+    }
+}
+
+.btn-to-ruber {
+    &:hover {
+        background-color: $color-ruber;
+        color: $color-white;
+        transition-duration: 0.6s;
+    }
+}
+
+.btn-to-fandango {
+    &:hover {
+        background-color: $color-fandango;
+        color: $color-white;
+        transition-duration: 0.6s;
+    }
+}
+
+.btn-to-dark-orchid {
+    &:hover {
+        background-color: $color-dark-orchid;
+        color: $color-white;
+        transition-duration: 0.6s;
+    }
+}
+
+.btn-to-royal-blue-light {
+    &:hover {
+        background-color: $color-royal-blue-light;
+        color: $color-white;
+        transition-duration: 0.6s;
+    }
+}

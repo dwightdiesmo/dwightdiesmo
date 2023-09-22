@@ -1,0 +1,27 @@
+{
+    "featured": {
+        "priority": "1",
+        "name": "Featured",
+        "link": "#publications"
+    },
+    "education": {
+        "priority": "2",
+        "name": "Education",
+        "link": "#education"
+    },
+    "experience": {
+        "priority": "3",
+        "name": "Experience",
+        "link": "#experience"
+    },
+    "projects": {
+        "priority": "4",
+        "name": "Projects",
+        "link": "#projects"
+    },
+    "contact": {
+        "priority": "5",
+        "name": "Contact",
+        "link": "#contact"
+    }
+}

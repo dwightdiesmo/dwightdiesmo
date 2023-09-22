@@ -1,0 +1,184 @@
+{
+    "ADPCM": {
+        "name": "ADPCM",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "Verilog & Matlab implementation of adaptive differential pulse code modulation for audio compression.",
+        "github": "https://github.com/DwightDiesmo/Verilog-ADPCM"
+    },
+    "UART": {
+        "name": "UART",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "FPGA & SystemVerilog implementation of UART.",
+        "github": "https://github.com/DwightDiesmo/Basys_3_UART"
+    },
+    "SINGLE_PROCESSOR": {
+        "name": "Single-Cycle MIPS Microprocessor",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "Verilog implementation of a Harvard MIPS Single-Cycle Microprocessor.",
+        "github": "https://github.com/DwightDiesmo/Verilog-Single-Cycle-Processor"
+    },
+    "MULTI_PROCESSOR": {
+        "name": "Multi-Cycle MIPS Microprocessor",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "Verilog implementation of a Von Neumann MIPS Multi-Cycle Microprocessor.",
+        "github": "https://github.com/DwightDiesmo/Verilog-Multicycle-MIPS-Processor"
+    },
+    "PIPELINE_PROCESSOR": {
+        "name": "Super-Scalar Pipelined MIPS Microprocessor",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "Verilog implementation of a Harvard MIPS Super-Scalar 5-Staged Pipelined Microprocessor with Data & Control Hazard Error Handling.",
+        "github": "https://github.com/DwightDiesmo/Verilog-Pipelined-MIPS-Processor"
+    },
+    "TIME_MUX_FIR": {
+        "name": "Time-Multiplexed FIR Filter",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "Verilog & Matlab implementation of a Time-Multiplexed FIR Filter.",
+        "github": "https://github.com/DwightDiesmo/Verilog-Time-Multiplexed-FIR-Filter"
+    },
+    "IIR": {
+        "name": "IIR Filter",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "Verilog & Matlab implementation of an IIR Filter using Cascaded Second Order Section.",
+        "github": "https://github.com/DwightDiesmo/Verilog-IIR-Filter"
+    },
+    "Digital_Clock": {
+        "name": "Digital Clock",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "SystemVerilog & Basys 3 FPGA implementation of a Digital Clock with an Alarm.",
+        "github": "https://github.com/DwightDiesmo/SystemVerilog-FPGA-Digital-Clock"
+    },
+    "Whack_A_Mole": {
+        "name": "Whack-A-Mole",
+        "category": [
+            "Hardware Description Language"
+        ],
+        "tools": [
+            "SystemVerilog",
+            "Matlab",
+            "FPGA"
+        ],
+        "description": "SystemVerilog & Basys 3 FPGA implementation of a Whack-A-Mole game with scoring system and timer.",
+        "github": ""
+    },
+    "ARGUS": {
+        "name": "A.R.G.U.S.",
+        "category": [
+            "Internet of Things"
+        ],
+        "tools": [
+            "C/C++",
+            "Matlab",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "SQL",
+            "MySQL",
+            "PHPMyAdmin",
+            "Python",
+            "Flask",
+            "Arduino",
+            "Fog Computing",
+            "WebApp",
+            "Circuit",
+            "Embedded Hardware",
+            "Embedded Software"
+        ],
+        "description": "Deployable Surveillance M-203 Grenade Launcher Round with seismic sensing, camera, microphone, gps, sd card, wifi capabilities. Data is sent via file transfer protocol to a fog computing layer that processes data and transmits to the MySQL server in cloud. Data can be viewed an accessed by the user in a Flask Web-Application.",
+        "github": "https://github.com/DwightDiesmo/ARGUS"
+    },
+    "AASE": {
+        "name": "Autonomous Adaptive Solar Ecosystem",
+        "category": [
+            "Internet of Things"
+        ],
+        "tools": [
+            "C/C++",
+            "Python",
+            "Flask",
+            "Arduino",
+            "Fog Computing",
+            "WebApp",
+            "Circuit",
+            "Embedded Hardware",
+            "Embedded Software"
+        ],
+        "description": "SD Hacks 2022 Best Overall. Single-Axis Adaptive Solar Panels with Liquid Cooling Pump System and Data Tracking via MySQL & Flask Web Application.",
+        "github": "https://github.com/DwightDiesmo/Autonomous-Adaptive-Solar-Ecosystem"
+    },
+    "CheezyPop": {
+        "name": "CheezyPop",
+        "category": [
+            "Web Applications"
+        ],
+        "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap",
+            "SQL",
+            "MySQL",
+            "PHPMyAdmin",
+            "Python",
+            "Flask"
+        ],
+        "description": "SD Hacks 2022 Best Overall. Single-Axis Adaptive Solar Panels with Liquid Cooling Pump System and Data Tracking via MySQL & Flask Web Application.",
+        "github": "https://github.com/DwightDiesmo/cheezypop.com"
+    }
+}

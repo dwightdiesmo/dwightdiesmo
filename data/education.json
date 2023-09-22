@@ -1,0 +1,23 @@
+{
+    "Bachelor's": {
+        "school": "San Diego State University",
+        "major": "B.S. Electrical & Computer Engineering",
+        "start": "2018",
+        "end": "2022",
+        "logo": "img/education/sdsu-logo.png",
+        "city": "San Diego, CA",
+        "relevantCourses": [
+            "VLSI Circuit Design",
+            "VLSI System Design",
+            "Embedded Operating Systems",
+            "Multimedia Communcation Systems",
+            "Windows Database & Web Programming",
+            "Microprocessors",
+            "Digital Circuits",
+            "Signals & Systems",
+            "Embedded Systems Programming",
+            "Windows Programming",
+            "Data Structures & Object Oriented Programming"
+        ]
+    }
+}

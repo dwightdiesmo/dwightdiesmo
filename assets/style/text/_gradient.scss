@@ -1,0 +1,29 @@
+.text-instagram {
+    background-image: $gradient-instagram;
+    background-size: 300%;
+    background-position: left;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text; 
+    color: transparent;
+    transition: background-position 1s;
+    &:hover, &:focus {
+        background-position: right;
+        color: transparent;
+    }
+}
+
+.text-white-to-instagram {
+    background-image: $gradient-white-to-instagram;
+    background-size: 300%;
+    background-position: left;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text; 
+    color: transparent;
+    transition: background-position 1s;
+    &:hover, &:focus {
+        background-position: right;
+        color: transparent;
+    }
+}

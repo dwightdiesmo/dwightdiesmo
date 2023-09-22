@@ -1,0 +1,14 @@
+@import "./variables/variables";
+@import "./fonts/fonts";
+@import "./backgrounds/backgrounds";
+@import "./buttons/buttons";
+@import "./text/text";
+@import "./components/components";
+// @import url(./animations/_animations.scss);
+@import "./animations/animations";
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
